@@ -1,0 +1,122 @@
+[
+    {
+        "name":"Audi A4 2017",
+        "rating" : "4.88",
+        "src" : "https://zoomcar-assets.zoomcar.com/157818/HostCarImage/157818_host_car_image_1578188fe970f2-060f-409d-a070-dc47cb231d55ae7a7dd1-0e70-4ded-970b-64119adfe20e.jpg",
+        "type":"automatic",
+        "gasType":"disel",
+        "seats":5,
+        "price":"504/hr",
+        "id":1
+    },
+    {
+        "name":"KIA Seltos 2022",
+        "rating" : "4.75",
+        "src" : "https://zoomcar-assets.zoomcar.com/28456/HostCarImage/host_car_image_2845647c92e8b-3132-415a-9971-b63cd8b9c82a.jpg20230111-53-179x856",
+        "type":"manual",
+        "gasType":"petrol",
+        "seats":5,
+        "price":"278/hr",
+        "id":2
+    },
+    {
+        "name":"Mahindra XUV500 2018",
+        "rating" : "4.19",
+        "src" : "https://zoomcar-assets.zoomcar.com/126771/HostCarImage/host_car_image_126771ee230cff-3deb-4259-bba9-41cc092b3bd9.jpg20230216-58-19np2sj",
+        "type":"automatic",
+        "gasType":"disel",
+        "seats":5,
+        "price":"504/hr",
+        "id":3
+    },
+    {
+        "name":"MG Motors Hector 2022",
+        "rating" : "4.67",
+        "src" : "https://zoomcar-assets.zoomcar.com/175257/HostCarImage/host_car_image_17525730c72443-06eb-44e7-a814-d223428e39fc.jpg20230308-27-1b3vhg4",
+        "type":"manual",
+        "gasType":"petrol",
+        "seats":5,
+        "price":"350/hr",
+        "id":4
+    },
+    {
+        "name":"Hyundai I20 2023",
+        "rating" : "4.88",
+        "src" : "https://zoomcar-assets.zoomcar.com/142712/HostCarImage/142712_host_car_image_142712a4c5d51d-5ab2-4ef3-b9f5-381e637f7bb7fa681b72-cb14-4134-8c63-ac8899482d9b.jpg",
+        "type":"automatic",
+        "gasType":"petrol",
+        "seats":5,
+        "price":"222/hr",
+        "id":5
+    },
+    {
+        "name":"Tata Safari 2022",
+        "rating" : "4.37",
+        "src" : "https://zoomcar-assets.zoomcar.com/172606/HostCarImage/172606_host_car_image_172606a0905c6d-e3c5-4630-80b5-43628a1dfe1585ba94e5-eee3-4723-94b0-60ffef70cc17.jpg",
+        "type":"manual",
+        "gasType":"disel",
+        "seats":7,
+        "price":"278/hr",
+        "id":6
+    },
+    {
+        "name":"Hyundai I20 2015",
+        "rating" : "4.59",
+        "src" : "https://zoomcar-assets.zoomcar.com/97151/HostCarImage/host_car_image_97151a18045b3-1e01-49fe-b44f-1b19da423d7f.jpg20230205-56-1o8zcqb",
+        "type":"manual",
+        "gasType":"petrol",
+        "seats":5,
+        "price":"164/hr",
+        "id":7
+    },
+    {
+        "name":"Mahindra Scorpio 2022",
+        "rating" : "NA",
+        "src" : "https://zoomcar-assets.zoomcar.com/218796/HostCarImage/host_car_image_218796b92e9343-7824-4fc6-b052-9365541a82ee.jpg20230405-61-19k0fqn",
+        "type":"manual",
+        "gasType":"disel",
+        "seats":7,
+        "price":"332/hr",
+        "id" :8
+    },
+    {
+        "name":"Tata HEXA 2017",
+        "rating" : "4.38",
+        "src" : "https://zoomcar-assets.zoomcar.com/36197/HostCarImage/36197_host_car_image_361977de630ee-aa87-49ac-890c-e8e29a9455140cca62a7-a8bf-46cc-b961-d5f7710db475.jpg",
+        "type":"automatic",
+        "gasType":"disel",
+        "seats":7,
+        "price":"243/hr",
+        "id":9
+    },
+    {
+        "name":"Mahindra Thar 2021",
+        "rating" : "4.88",
+        "src" : "https://zoomcar-assets.zoomcar.com/43806/HostCarImage/host_car_image_43806ad7b95df-2976-4af6-9eef-dd09b4c34420.jpg20230115-63-12dyou4",
+        "type":"manual",
+        "gasType":"disel",
+        "seats":4,
+        "price":"229/hr",
+        "id":10
+    },
+    {
+        "name":"maruti Brezza 2022",
+        "rating" : "NA",
+        "src" : "https://zoomcar-assets.zoomcar.com/45211/HostCarImage/host_car_image_452110ab17871-ec6a-497a-9b1e-f6e66cebdb12.jpg20230115-24-13pjjo8",
+        "type":"manual",
+        "gasType":"petrol",
+        "seats":5,
+        "price":"220/hr",
+        "id":11
+    },
+    {
+        "name":"Chevrolet Sail 2015",
+        "rating" : "4.72",
+        "src" : "https://zoomcar-assets.zoomcar.com/157818/HostCarImage/157818_host_car_image_1578188fe970f2-060f-409d-a070-dc47cb231d55ae7a7dd1-0e70-4ded-970b-64119adfe20e.jpg",
+        "type":"manual",
+        "gasType":"disel",
+        "seats":5,
+        "price":"130/hr",
+        "id":12
+    }
+]

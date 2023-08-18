@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.toast {
+  position: absolute;
+  left: 50%;
+  bottom: 2em;
+  transform: translateX(-50%);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+img {
+  width: 100%;
+  display: block;
+}

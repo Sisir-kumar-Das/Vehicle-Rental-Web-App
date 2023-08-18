@@ -1,0 +1,94 @@
+[
+    {
+        "id":1,
+        "name":"Honda Dio (BS6) 2022",
+        "rating" : "4.80",
+        "src" : "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/308/medium/HONDA_DIO_BS6.png?1660734795",
+        "price":"85/hr"
+        
+    },
+    {
+        "id":2,
+        "name":"Hero Pleasure Plus 2022",
+        "rating" : "4.66",
+        "src" : "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/338/medium/HERO_PLEASURE_PLUS.png?1660655867",
+        "price":"80/hr"
+        
+    },
+    {
+        "id":3,
+        "name":"Honda Activa 6G 2021",
+        "rating" : "4.86",
+        "src" : "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/272/medium/Activa-6G.png?1666077785",
+        "price":"88/hr"
+        
+    },
+    {
+        "id":4,
+        "name":"Yamaha Ray ZR 2023",
+        "rating" : "4.44",
+        "src" : "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/341/medium/YAMAHA_RAY_ZR.png?1660655544",
+        "price":"105/hr"
+        
+    },
+    {
+        "name":"Yamaha FZ V3 2021",
+        "rating" : "4.67",
+        "src" : "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/248/medium/YAMAHA_FZ_V3.png?1660732450",
+        "price":"150/hr",
+        "id":5
+    },
+    {
+        "id":6,
+        "name":"Honda X Blade (BS6) 2020",
+        "rating" : "4.87",
+        "src" : "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/310/medium/HONDA_X-BLADE_%28BS6%29.png?1660731412",
+        "price":"170/hr"
+        
+    },
+    {
+         "id":7,
+        "name":"Yamaha MT15 V2 (BS6) 2020",
+        "rating" : "4.76",
+        "src" : "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/340/medium/YAMAHA_MT-15__BS6.png?1660655626",
+        "price":"178/hr"
+       
+    },
+    {
+        "id":8,
+        "name":"Honda H’ness CB 350 2023",
+        "rating" : "4.89",
+        "src" : "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/279/medium/HONDA_H%E2%80%99NESS_CB350.png?1660732549",
+        "price":"220/hr"
+        
+    },
+    {
+           "id":9,
+        "name":"Yamaha Aerox 2022",
+        "rating" : "4.80",
+        "src" : "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/333/medium/YAMAHA_AEROX.png?1660656218",
+        "price":"190/hr"
+     
+    },
+    {    "id":10,
+        "name":"Royal Enfield Meteor Fireball 350 2022",
+        "rating" : "4.95",
+        "src" : "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/280/medium/ROYAL_ENFIELD_METEOR_350_FIREBALL.png?1660729122",
+        "price":"245/hr"
+    
+    },
+    {
+        "id":11,
+        "name":"Royal Enfield Meteor Supernova 350 2023",
+        "rating" : "4.97",
+        "src" : "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/281/medium/ROYAL_ENFIELD_METEOR_350_SUPERNOVA.png?1660729204",
+        "price":"280/hr"
+    },
+    {
+        "id":12,
+        "name":"TVS Apache RTR 180 (BS6) 2020",
+        "rating" : "4.93",
+        "src" : "https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/317/medium/TVS_APACHE_RTR_180_%28BS6%29.png?1660728065",
+        "price":"304/hr"
+    }
+]
